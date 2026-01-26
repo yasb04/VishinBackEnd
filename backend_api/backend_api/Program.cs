@@ -1,15 +1,13 @@
-using backend_api.Data.Models;
-
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+// Lägg till stöd för Controllers och Swagger
+builder.Services.AddControllers(); 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Aktivera Swagger
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -18,14 +16,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.MapPost("/validate", (FraudRequest request) =>
-    {
-        return Results.Ok(new { 
-            status = "Mottaget", 
-            receivedAt = DateTime.Now 
-        });
-    })
-    .WithName("PostValidateText")
-    .WithOpenApi();
+// VIKTIGT: Koppla in dina Controllers
+app.MapControllers(); 
 
 app.Run();

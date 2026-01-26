@@ -1,0 +1,176 @@
+﻿Text;fraud_value;type
+Swish: Vi har noterat en misstänkt betalning på 4500 kr. Klicka här för att avbryta: swish-sakerhet.com/avbryt;1;SMS
+Ville du fika idag?;0;SMS
+vad gör du för något?;0;SMS
+Hej pappa, min telefon gick sönder. Detta är mitt nya nummer. Kan du swisha mig för en ny telefon? Det är kris.;1;SMS
+Hej mamma, min telefon gick sönder. Detta är mitt nya nummer. Kan du swisha mig för en ny telefon? Det är kris.;1;SMS
+Hej broshan, min telefon gick sönder. Detta är mitt nya nummer. Kan du swisha mig för en ny telefon? Det är kris.;1;SMS
+BankID: Ditt BankID går ut om 24 timmar. Förnya omedelbart via denna länk för att undvika spärr: säkra-bakid.se;1;SMS
+Din leverans från PostNord kunde inte levereras då porto saknas betala 29kr här: post-nord-levereras.nu;1;SMS
+Varning från Säkerhetsavdelningen: Någon försöker logga in på ditt konto från en ny enhet. Verifiera dig här: lank.se;1;SMS
+Kronofogden söker dig för en obetald skuld. Se ditt ärende här: kfm-skuld.info/login;1;SMS
+Hej! Vad ska vi äta till middag ikväll?;0;SMS
+Din verifieringskod är 8842. Ge den inte till någon.;0;SMS
+Kommer du ihåg att mamma fyller år imorgon? har du köpt blommorna än?;0;SMS
+Tja, fortfarande på att ses vid 19?;0;SMS
+Netflix: Din betalning misslyckades. Uppdatera dina kortuppgifter för att behålla ditt konto: https://www.google.com/search?q=netflix-support-se.com;1;SMS
+Jag blir lite sen, missade bussen;1;SMS
+Ämne: Återbäring från Skatteverket. Hej, vi har beslutat om en extra skatteåterbäring på 4500 kr. Klicka på länken och logga in med BankID för att få pengarna utbetalda direkt till ditt konto.;1;Email
+Ämne: Ditt konto har blivit låst. Vi har upptäckt misstänkt aktivitet på ditt Netflix-konto. För din säkerhet har vi låst kontot. Klicka här för att verifiera din identitet och låsa upp.;1;Email
+Ämne: Brådskande överföring. Hej, jag sitter i ett möte och kan inte prata. Kan du göra en snabb överföring till en leverantör åt mig? Det är bråttom. Jag skickar fakturan strax. /VD;1;Email
+Ämne: Obetald faktura. Din faktura för domännamnet har förfallit. Om du inte betalar inom 24 timmar stängs din hemsida ner. Betala via denna länk.;1;Email 
+Ämne: Du har vunnit ett presentkort! Grattis! Du är utvald att vinna ett presentkort på IKEA värt 10 000 kr. Svara på tre frågor för att hämta din vinst.;1;Email 
+Ämne: Veckobrev v.42. Hej alla, här kommer anteckningarna från veckans möte. Vi ses igen på måndag! Trevlig helg.;0;Email 
+Ämne: Bekräftelse på din bokning. Tack för att du bokade bord hos oss. Du är välkommen den 25:e oktober kl 19:00. Avbokning sker senast 24h innan.;0;Email 
+Ämne: Inbjudan till utvecklingssamtal. Hej, det är dags för det årliga samtalet. Vänligen boka en tid i min kalender som passar dig.;0;Email 
+Ämne: Nyhetsbrev. Missa inte vårens nyheter! Just nu har vi 20% rabatt på hela sortimentet. Gäller i butik och online.;0;Email 
+Ämne: Ditt kvitto. Här kommer kvittot för din resa med Uber. Totalt belopp: 149 kr. Tack för att du åker med oss.;0;Email 
+Ditt paket väntar. Bekräfta leverans via [länk] inom 24h för att undvika retur.;0;SMS
+Missad leverans pga fel adress. Uppdatera uppgifter här: [länk];0;SMS
+Swish: Ovanlig aktivitet på ditt konto. Bekräfta omedelbart här: [FAKE-LÄNK];1;SMS
+Ditt paket stoppades i tullen. Betala avgift nu för leverans: [FAKE-LÄNK];1;SMS
+Missad leverans. Bekräfta ny utkörning inom 2 timmar: [FAKE-LÄNK];1;SMS
+Ditt konto har spärrats tillfälligt. Återställ tillgång: [FAKE-LÄNK];1;SMS
+Obetald avgift registrerad. Betala innan påföljd tillkommer: [FAKE-LÄNK];1;SMS
+Din prenumeration avslutas idag. Förnya nu: [FAKE-LÄNK];1;SMS
+Betalning misslyckades. Uppdatera kortuppgifter omedelbart: [FAKE-LÄNK];1;SMS
+Grattis! Du har vunnit ett presentkort. Hämta här: [FAKE-LÄNK];1;SMS
+Sista chansen att lösa in din vinst idag: [FAKE-LÄNK];1;SMS
+Ny säkerhetsvarning. Logga in för att undvika avstängning: [FAKE-LÄNK];1;SMS
+Misstänkt inloggning från ny enhet. Bekräfta nu: [FAKE-LÄNK];1;SMS
+Tvåstegsverifiering misslyckades. Bekräfta igen: [FAKE-LÄNK];1;SMS
+Återbetalning väntar. Bekräfta mottagare: [FAKE-LÄNK];1;SMS
+Din digitala post är oläst. Läs meddelande: [FAKE-LÄNK];1;SMS
+Ditt ärende kräver omedelbar åtgärd: [FAKE-LÄNK];1;SMS
+Lösenordet upphör idag. Uppdatera direkt: [FAKE-LÄNK];1;SMS
+Kontot riskerar permanent stängning. Åtgärda nu: [FAKE-LÄNK];1;SMS
+Ny faktura tillgänglig. Betala innan förfallodatum: [FAKE-LÄNK];1;SMS
+Extra avgift tillkommer vid sen betalning. Betala här: [FAKE-LÄNK];1;SMS
+Saldo under gräns. Uppdatera betalmetod: [FAKE-LÄNK];1;SMS
+Nytt privat meddelande väntar. Läs här: [FAKE-LÄNK];1;SMS
+Någon försökte nå dig. Se detaljer: [FAKE-LÄNK];1;SMS
+Verifiera ditt konto för fortsatt användning: [FAKE-LÄNK];1;SMS
+Oläst notifikation väntar. Öppna nu: [FAKE-LÄNK];1;SMS
+HR: Dokument kräver signering idag: [FAKE-LÄNK];1;SMS
+Löneinformation kunde inte levereras. Bekräfta konto: [FAKE-LÄNK];1;SMS
+Åtkomst till system upphör. Verifiera anställning: [FAKE-LÄNK];1;SMS
+Nytt kontrakt tillgängligt. Läs och godkänn: [FAKE-LÄNK];1;SMS
+Schemaändring kräver bekräftelse: [FAKE-LÄNK];1;SMS
+Nytt provsvar tillgängligt. Logga in säkert: [FAKE-LÄNK];1;SMS
+Tidsbokning kräver bekräftelse idag: [FAKE-LÄNK];1;SMS
+Meddelande från vården. Läs nu: [FAKE-LÄNK];1;SMS
+Dina journaluppgifter behöver uppdateras: [FAKE-LÄNK];1;SMS
+Besök avbokas om ingen bekräftelse sker: [FAKE-LÄNK];1;SMS
+Pris reserverat i ditt namn. Aktivera nu: [FAKE-LÄNK];1;SMS
+Verifiera ålder för att få belöning: [FAKE-LÄNK];1;SMS
+Gratisperiod slut. Fortsätt utan avbrott: [FAKE-LÄNK];1;SMS
+Kontot pausat tills verifiering är klar: [FAKE-LÄNK];1;SMS
+Återbetalning misslyckades. Bekräfta konto: [FAKE-LÄNK];1;SMS
+Transaktion väntar på godkännande. Godkänn nu: [FAKE-LÄNK];1;SMS
+Paket returneras ikväll om inget svar ges: [FAKE-LÄNK];1;SMS
+Fel postnummer angivet. Uppdatera innan kl 18:00: [FAKE-LÄNK];1;SMS
+Tullavgift saknas. Betala nu: [FAKE-LÄNK];1;SMS
+Ny enhet upptäckt. Godkänn åtkomst: [FAKE-LÄNK];1;SMS
+Säkerhetskontroll krävs för fortsatt användning: [FAKE-LÄNK];1;SMS
+Vi blockerade en begäran. Var det du? Bekräfta här: [FAKE-LÄNK];1;SMS
+;;
+Är du på väg hem snart?;0;SMS
+Glöm inte att handla mjölk på vägen.;0;SMS
+Kan vi ses kl 18 istället?;0;SMS
+Tåget är lite sent men jag är snart framme.;0;SMS
+Ring mig när du har tid.;0;SMS
+Jag har lagt nyckeln under mattan.;0;SMS
+Mötet är flyttat till imorgon kl 10.;0;SMS
+Tack för hjälpen idag!;0;SMS
+Jag jobbar sent ikväll, hörs senare.;0;SMS
+Kan du skicka adressen igen?;0;SMS
+Påminnelse om tandläkartid imorgon kl 14.;0;SMS
+Vi ses vid entrén om 5 minuter.;0;SMS
+Barnen är hämtade från skolan nu.;0;SMS
+Filmen börjar 20:30.;0;SMS
+Jag skickade mejlet nyss.;0;SMS
+Behöver du skjuts imorgon?;0;SMS
+Kan du swisha mig för lunchen?;0;SMS
+Har du sett mina glasögon?;0;SMS
+Jag är hemma nu.;0;SMS
+Träningen är inställd ikväll.;0;SMS
+Vi hörs efter jobbet.;0;SMS
+Lycka till på intervjun!;0;SMS
+Jag kommer 10 minuter sent.;0;SMS
+Har lagt upp filerna i vår chatt.;0;SMS
+Säg till när du är framme.;0;SMS
+Vill du ta en kaffe senare?;0;SMS
+Jag lagar middag idag.;0;SMS
+Kan du passa hunden imorgon?;0;SMS
+Jag har bokat bord kl 19.;0;SMS
+Glöm inte paraply, det regnar.;0;SMS
+Vi behöver boka om mötet.;0;SMS
+Jag skickar fakturan idag.;0;SMS
+Ses hos läkaren kl 09.;0;SMS
+Tack för igår!;0;SMS
+Jag jobbar hemifrån idag.;0;SMS
+Hör av dig när du vaknat.;0;SMS
+Kan du öppna dörren?;0;SMS
+Vi åker om 15 minuter.;0;SMS
+Jag har laddat bilen.;0;SMS
+Kom ihåg passet.;0;SMS
+Jag tar med snacks.;0;SMS
+Kan vi prata senare?;0;SMS
+Jag är sjuk idag.;0;SMS
+Vi vann matchen!;0;SMS
+Glöm inte mössan.;0;SMS
+Jag har skickat pengarna.;0;SMS
+Filmen var jättebra.;0;SMS
+Ses imorgon!;0;SMS
+;;
+Hej! Här kommer mötesanteckningarna från idag.;0;EMAIL
+Faktura för april bifogas detta mejl.;0;EMAIL
+Vi har uppdaterat policydokumentet enligt överenskommelse.;0;EMAIL
+Tack för din ansökan, vi återkommer inom kort.;0;EMAIL
+Påminnelse om möte imorgon kl 09.;0;EMAIL
+Kvittot från ditt köp finns bifogat.;0;EMAIL
+Kan du granska rapporten innan fredag?;0;EMAIL
+Välkommen till kursen! Information finns nedan.;0;EMAIL
+Jag har lagt till kommentarer i dokumentet.;0;EMAIL
+Bekräftelse på din bokning.;0;EMAIL
+Semestern är nu registrerad i systemet.;0;EMAIL
+Angående vårt samtal tidigare idag.;0;EMAIL
+Din supportförfrågan har mottagits.;0;EMAIL
+Här är presentationen från mötet.;0;EMAIL
+Vi ses på kontoret imorgon.;0;EMAIL
+Uppdaterad tidsplan bifogas.;0;EMAIL
+Påminnelse: lämna in rapporten.;0;EMAIL
+Tack för snabbt svar.;0;EMAIL
+Jag har nu godkänt ändringarna.;0;EMAIL
+Vänligen se bifogad fil.;0;EMAIL
+Vi har mottagit din betalning.;0;EMAIL
+Information om kommande driftstopp.;0;EMAIL
+Mötet är flyttat till nästa vecka.;0;EMAIL
+Tack för samarbetet.;0;EMAIL
+Återkoppling på ditt förslag.;0;EMAIL
+Ditt konto har tillfälligt stängts. Logga in här för att återställa: [FAKE-LÄNK];1;EMAIL
+Ovanlig inloggning upptäckt. Bekräfta din identitet nu: [FAKE-LÄNK];1;EMAIL
+Vi kunde inte behandla din betalning. Uppdatera kortuppgifter: [FAKE-LÄNK];1;EMAIL
+Du har ett oläst myndighetsmeddelande. Läs här: [FAKE-LÄNK];1;EMAIL
+Din e-post kommer raderas om du inte verifierar idag: [FAKE-LÄNK];1;EMAIL
+Grattis! Du har valts ut för en belöning. Hämta nu: [FAKE-LÄNK];1;EMAIL
+Säkerhetsuppdatering krävs omedelbart. Klicka här: [FAKE-LÄNK];1;EMAIL
+Vi har spärrat ditt konto pga misstänkt aktivitet. Åtgärda: [FAKE-LÄNK];1;EMAIL
+Bekräfta din leveransadress för att få paketet: [FAKE-LÄNK];1;EMAIL
+Misslyckad inloggning. Var detta du? Bekräfta här: [FAKE-LÄNK];1;EMAIL
+Din återbetalning väntar på verifiering: [FAKE-LÄNK];1;EMAIL
+Obetald faktura. Betala nu för att undvika extra avgift: [FAKE-LÄNK];1;EMAIL
+Ditt konto kommer stängas inom 24h: [FAKE-LÄNK];1;EMAIL
+Ny röstmeddelande finns tillgängligt. Lyssna här: [FAKE-LÄNK];1;EMAIL
+Verifiera ditt lösenord för fortsatt åtkomst: [FAKE-LÄNK];1;EMAIL
+Fel i din profil upptäckt. Uppdatera information: [FAKE-LÄNK];1;EMAIL
+Du har mottagit en säker fil. Öppna här: [FAKE-LÄNK];1;EMAIL
+Betalning väntar på ditt godkännande: [FAKE-LÄNK];1;EMAIL
+Din lagring är full. Uppgradera nu: [FAKE-LÄNK];1;EMAIL
+Sista påminnelse – bekräfta kontot idag: [FAKE-LÄNK];1;EMAIL
+Vi kunde inte leverera ditt meddelande. Åtgärda nu: [FAKE-LÄNK];1;EMAIL
+Din identitet måste verifieras enligt nya regler: [FAKE-LÄNK];1;EMAIL
+Kontoaktivitet kräver omedelbar åtgärd: [FAKE-LÄNK];1;EMAIL
+Logga in för att undvika permanent avstängning: [FAKE-LÄNK];1;EMAIL
+Bekräftelse saknas. Slutför processen här: [FAKE-LÄNK];1;EMAIL
+;;
