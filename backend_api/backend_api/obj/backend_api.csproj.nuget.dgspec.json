@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VishinGuard\\FelixAndCo\\backend_api\\backend_api\\backend_api.csproj": {}
+    "C:\\Users\\yassi\\RiderProjects\\FelixAndCo\\backend_api\\backend_api\\backend_api.csproj": {}
   },
   "projects": {
-    "C:\\VishinGuard\\FelixAndCo\\backend_api\\backend_api\\backend_api.csproj": {
+    "C:\\Users\\yassi\\RiderProjects\\FelixAndCo\\backend_api\\backend_api\\backend_api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VishinGuard\\FelixAndCo\\backend_api\\backend_api\\backend_api.csproj",
+        "projectUniqueName": "C:\\Users\\yassi\\RiderProjects\\FelixAndCo\\backend_api\\backend_api\\backend_api.csproj",
         "projectName": "backend_api",
-        "projectPath": "C:\\VishinGuard\\FelixAndCo\\backend_api\\backend_api\\backend_api.csproj",
-        "packagesPath": "C:\\Users\\olleo\\.nuget\\packages\\",
-        "outputPath": "C:\\VishinGuard\\FelixAndCo\\backend_api\\backend_api\\obj\\",
+        "projectPath": "C:\\Users\\yassi\\RiderProjects\\FelixAndCo\\backend_api\\backend_api\\backend_api.csproj",
+        "packagesPath": "C:\\Users\\yassi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yassi\\RiderProjects\\FelixAndCo\\backend_api\\backend_api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\olleo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\yassi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
